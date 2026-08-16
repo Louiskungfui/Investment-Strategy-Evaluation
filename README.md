@@ -44,4 +44,4 @@ Over the historical sample, the 10-month overlay reduced the maximum drawdown re
 
 ## Author note
 
-AI tools supported the development of the Python implementation, including code structuring, debugging and technical explanation. The research question, model choices, code review, calculation verification, interpretation and final presentation were completed independently by the author, who retains sole responsibility for the analysis.
+AI tools supported the development of the Python implementation, including code structuring, debugging and technical explanation. The model choices, code review, calculation verification, interpretation and final presentation were completed independently by the author, who retains sole responsibility for the analysis.
